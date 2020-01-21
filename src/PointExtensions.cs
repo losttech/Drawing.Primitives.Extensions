@@ -1,6 +1,5 @@
-﻿namespace System.Drawing.Primitives {
+﻿namespace System.Drawing {
     using System;
-    using System.Drawing;
 
     public static class PointExtensions {
         /// <summary>

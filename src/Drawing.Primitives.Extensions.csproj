@@ -5,8 +5,8 @@
     <LangVersion>8.0</LangVersion>
     <Nullable>enable</Nullable>
     <AssemblyName>LostTech.Drawing.Primitives.Extensions</AssemblyName>
-    <RootNamespace>System.Drawing.Primitives</RootNamespace>
-    <Version>0.0.1</Version>
+    <RootNamespace>System.Drawing</RootNamespace>
+    <Version>0.0.2</Version>
     <Authors>Victor Milovanov</Authors>
     <Company>Lost Tech LLC</Company>
     <Description>Extensions for System.Drawing.Primitives</Description>

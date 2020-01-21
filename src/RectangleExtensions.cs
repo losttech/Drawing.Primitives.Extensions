@@ -1,6 +1,4 @@
-﻿namespace System.Drawing.Primitives {
-    using System.Drawing;
-
+﻿namespace System.Drawing {
     public static class RectangleExtensions {
         /// <summary>
         /// Gets the central point of the rectangle
